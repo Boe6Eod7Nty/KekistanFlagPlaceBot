@@ -1,5 +1,5 @@
 {
-  "time": "Apr 03 2017 13:30:00 GMT-0400 (EDT)",
+  "time": "Apr 03 2017 14:00:00 GMT-0400 (EDT)",
   "x": 278,
   "y": 83,
   "image": [
@@ -10,9 +10,18 @@
 	  "#O#O#O#OOO#O#OOO#O#O##OO#O#O##O#O#O#O#O#OO#O#O#O#O#O#O#OO#OO###OO#OO#O#O#",
 	  "#O##OO#O###OO##O###O#O#O##OO##OO##OO##O#OO#O#O#OO#OO###O##OOOO#OO#OO#O#O#",
 	  "#OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO#",
-	  "#########################################################################"
+	  "#########################################################################",
+	  "#OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO#",
+	  "#OOOOOOOOOOO#OOOOOO#O###O#O#OO#OO#OOO#O#OO#O#O#OO#OO###O###OOOOOOOOOOOOO#",
+	  "#OOOOOOOOOO#OO#OOO#OO#OOO#O#O#O#O#O#O#O##O#O#O#O#O#OO#OO#OOOOOOOOOOOOOOO#",
+	  "#OOOOOOOOOO#OO##OO#OO###O###O###O#O#O#O#O##O###O###OO#OO###OOOOOOOOOOOOO#",
+	  "X#OOOOOOOO#OOO#OO#OOOOO#O#O#O#O#O#O#O#O#O##O#O#O#O#OO#OO#OOOOOOOOOOOOOO#X",
+	  "XX#OOOOOOO#OOO#OO#OOO###O#O#O#O#OO#O#OO#OO#O#O#O#O#OO#OO###OOOOOOOOOOO#XX",
+	  "XXX#OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO#XXX",
+	  "XXXX#################################################################XXXX"
   ],
   "colors": {
+    "X": -1,
     "W": 0,
     "#": 3,
     "R": 5,
